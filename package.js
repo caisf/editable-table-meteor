@@ -1,5 +1,5 @@
 Package.describe({
-  name: 'tejasmanohar:editable-tablee',
+  name: 'tejasmanohar:editable-table',
   summary: 'tiny jQuery/Bootstrap widget that makes a HTML table editable ',
   version: '1.0.0',
   git: 'https://github.com/tejas-manohar/editable-table-meteor'
