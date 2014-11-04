@@ -6,7 +6,7 @@ Package.describe({
 });
 
 Package.onUse(function(api) {
-    api.versionsFrom('1.0');
+    api.versionsFrom('1.0.0');
     api.use('jquery@1.0');
     api.addFiles('vendor/mindmup-editabletable.min.js');
 });
